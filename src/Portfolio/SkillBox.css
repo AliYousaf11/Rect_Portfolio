@@ -1,0 +1,15 @@
+.skillBox{
+    height: 25vh;
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 10%;
+}
+.name >h2{
+    font-size: 40px;
+    color: #2a57d3;
+}
+.percent >h2{
+    font-size: 40px;
+    color: #2a57d3;
+
+}

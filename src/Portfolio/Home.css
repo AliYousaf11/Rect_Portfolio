@@ -1,0 +1,45 @@
+.home{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    height: 100vh;
+}
+.home__content{ 
+    padding-top: 15%;
+    margin-left: 5%;
+}
+.subscript > h5{
+    font-size: 25px;
+    font-weight: 450;
+}
+.location> h5{
+    font-size: 25px;
+    font-weight: 450;  
+}
+.nameDeveloper > h1{
+    font-size: 70px;
+    font-weight: 700;
+}
+.developertitle > h2{
+    font-size: 35px;
+    /* margin-left: -62%; */
+    font-weight: 700;
+    color: #2a57d3;
+}
+.home__content>button{
+    width: 120px;
+    padding: 7px 5px;
+    border-radius: 5%;
+    border: none;
+    background-color: #2a57d3;
+    color: #eee;
+    font-size: 23px;
+    font-weight: 500;
+}
+.home__content>button:hover{
+    width: 120px;
+    padding: 7px 5px;
+    border-radius: 5%;
+    border: none;
+    background-color: #3960c9;
+    color: #eee;
+    font-size: 23px;
+}

@@ -1,0 +1,29 @@
+.serviceBox{
+    margin-top: 2%;
+    border-radius: 30px;
+    height: 35vh;
+    margin-left: 2%;
+    /* border: 2px solid lightgrey; */
+    box-shadow: 0 7px 30px -10px rgba(71, 78, 82, 0.5);
+}
+.serviceBox >h3{
+    margin-top: 7%;
+    background-color: #2a57d3;
+    width: 60px;
+    border-radius: 50px;
+    height: 60px;
+    margin-left: 40%;
+}
+.serviceBox > h2{
+    font-size: 25px;
+    text-align: center;
+}
+.serviceBox > p {
+    line-height: 18px;
+    margin-left: 8%;
+    /* margin-bottom: -5%; */
+    /* padding-bottom: -5%; */
+    margin-right: 8%;
+    /* margin-bottom: -6%; */
+    text-align: justify;
+}

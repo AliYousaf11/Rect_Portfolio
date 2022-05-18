@@ -1,0 +1,62 @@
+.footer{
+    padding: 12px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    background-color: #446dde;
+}
+.contact{
+    margin-top: 3%;
+    padding-top: 4%;
+    height:60vh;
+    
+    background-color: rgba(156, 229, 205, 0.227);
+}
+
+.contact_me > span{
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 85vh;
+    border-bottom: 4px solid #2a57d3;
+    transition: border 0.6s ease-in-out;
+}
+.contact_me >span:hover{
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 85vh;
+    border-bottom: 8px solid #2a57d3;
+    border-bottom-style: double;
+
+}
+.content{
+    text-align: center;
+    margin-top: 3%;
+}
+.content > h2{
+    font-weight: 400;
+    font-size: 40px;
+}
+.content >p{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.contact>button{
+    width: 180px;
+    padding: 7px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2a57d3;
+    color: #eee;
+    font-size: 23px;
+    font-weight: 500;
+    margin-left: 42%;
+}
+.contact>button:hover{
+    width: 180px;
+    padding: 7px 5px;
+    border-radius: 5%;
+    border: none;
+    background-color: #3960c9;
+    color: #eee;
+    font-size: 23px;
+}
